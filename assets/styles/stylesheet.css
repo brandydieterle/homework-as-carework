@@ -51,7 +51,7 @@ header nav a {
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
 	font-size: 18px;;
-	text-align: left;
+	text-align: justify;
 }
 #content #mainContent #authorInfo {
 	/* Author info section */
@@ -75,7 +75,7 @@ footer article {
 	float: left;
 	padding-left: 2%;
 	padding-right: 2%;
-	text-align: left;
+	text-align: justify;
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
 	font-weight: 200;
@@ -120,7 +120,7 @@ footer article h3 {
   padding: 18px;
   width: 100%;
   border: none;
-  text-align: left;
+  text-align: justify;
   outline: none;
   font-size: 18px;;
   transition: 0.4s;
